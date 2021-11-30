@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">اختبار</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="question1">تورونتو هي عاصمة أونتاريو</string>
+    <string name="question2">أوتاوا هي عاصمة كندا</string>
+    <string name="question3">فانكوفر هي عاصمة كولومبيا البريطانية</string>
+    <string name="question4">واشنطن العاصمة هي عاصمة الولايات المتحدة الأمريكية</string>
+    <string name="question5">بكين هي عاصمة الصين</string>
+    <string name="answer_correct_message">إجابتك صحيحة</string>
+    <string name="answer_incorrect_message">إجابتك غير صحيحة</string>
+    <string name="result_dialog_title">نتيجة</string>
+    <string name="result_dialog_message">نتيجتك هي:%d من%d</string>
+    <string name="average_dialog_message">الإجابات الصحيحة الخاصة بك هي%d في%d</string>
+    <string name="btn_true">حقيقية</string>
+    <string name="btn_false">خاطئة</string>
+    <string name="btn_save">حفظ</string>
+    <string name="btn_ignore">يتجاهل</string>
+    <string name="btn_ok">نعم</string>
+    <string name="btn_cancel">إلغاء</string>
+    <string name="dialog_hint">الرجاء تحديد رقم السؤال</string>
+    <string name="dialog_message">تم تعيين عدد السؤال على %d</string>
+    <string name="menu_get_average">احصل على المتوسط</string>
+    <string name="menu_select_question">حدد رقم السؤال</string>
+    <string name="menu_reset_result">إعادة تعيين النتيجة المحفوظة</string>
+</resources>

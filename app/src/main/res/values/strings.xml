@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">quiz</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="question1">Toronto is the capital of Ontario</string>
+    <string name="question2">Ottawa is the capital of Canada</string>
+    <string name="question3">Vancouver is the capital of British Columbia</string>
+    <string name="question4">Washington, D.C. is the capital of USA</string>
+    <string name="question5">Beijing is the capital of China</string>
+    <string name="answer_correct_message">Your answer is correct</string>
+    <string name="answer_incorrect_message">Your answer is incorrect</string>
+    <string name="result_dialog_title">Result</string>
+    <string name="result_dialog_message">Your Score is: %d out of %d </string>
+    <string name="average_dialog_message">Your correct answers are %d in %d </string>
+    <string name="btn_true">TRUE</string>
+    <string name="btn_false">FALSE</string>
+    <string name="btn_save">SAVE</string>
+    <string name="btn_ignore">IGNORE</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">CANCEL</string>
+    <string name="dialog_hint">Please select the number of question</string>
+    <string name="dialog_message">The number of question is set to %d</string>
+    <string name="menu_get_average">Get The Average</string>
+    <string name="menu_select_question">Select the number of Question</string>
+    <string name="menu_reset_result">Reset the saved Result</string>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">智力题</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="question1">多伦多是安省省会</string>
+    <string name="question2">渥太华是加拿大的首都</string>
+    <string name="question3">温哥华是BC省省会</string>
+    <string name="question4">华盛顿是美国的首都</string>
+    <string name="question5">北京是中国的首都</string>
+    <string name="answer_correct_message">回答正确</string>
+    <string name="answer_incorrect_message">回答错误</string>
+    <string name="result_dialog_title">结果</string>
+    <string name="result_dialog_message">你本次答对了 %d 题，总共 %d 题</string>
+    <string name="average_dialog_message">你平均答对了 %d 题。总共做了 %d 次</string>
+    <string name="btn_true">是</string>
+    <string name="btn_false">不是</string>
+    <string name="btn_save">保存</string>
+    <string name="btn_ignore">忽略</string>
+    <string name="btn_ok">确定</string>
+    <string name="btn_cancel">取消</string>
+    <string name="dialog_hint">请选择题目数</string>
+    <string name="dialog_message">总题目数为 %d</string>
+    <string name="menu_get_average">查看统计信息</string>
+    <string name="menu_select_question">选择题数</string>
+    <string name="menu_reset_result">重置统计信息</string>
+</resources>

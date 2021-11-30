@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/menu_get_average" android:title="@string/menu_get_average"></item>
+    <item android:id="@+id/menu_select_question" android:title="@string/menu_select_question"/>
+<item android:id="@+id/menu_reset_result" android:title="@string/menu_reset_result"/>
+</menu>
